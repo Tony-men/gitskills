@@ -1,0 +1,17 @@
+debug/ChooseDlg.o
+debug/CtrlPanel.o
+debug/MainWnd.o
+debug/MultiGame.o
+debug/NetGame.o
+debug/SingleGame.o
+debug/Step.o
+debug/board.o
+debug/main.o
+debug/stone.o
+debug/moc_ChooseDlg.o
+debug/moc_CtrlPanel.o
+debug/moc_MainWnd.o
+debug/moc_NetGame.o
+debug/moc_SingleGame.o
+debug/moc_Step.o
+debug/moc_board.o

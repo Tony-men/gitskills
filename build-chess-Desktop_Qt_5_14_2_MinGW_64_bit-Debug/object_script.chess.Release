@@ -1,0 +1,17 @@
+release/ChooseDlg.o
+release/CtrlPanel.o
+release/MainWnd.o
+release/MultiGame.o
+release/NetGame.o
+release/SingleGame.o
+release/Step.o
+release/board.o
+release/main.o
+release/stone.o
+release/moc_ChooseDlg.o
+release/moc_CtrlPanel.o
+release/moc_MainWnd.o
+release/moc_NetGame.o
+release/moc_SingleGame.o
+release/moc_Step.o
+release/moc_board.o
